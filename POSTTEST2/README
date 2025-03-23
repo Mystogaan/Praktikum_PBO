@@ -1,0 +1,6 @@
+1. Di dalam program ini ada 2 jenis pengguna yakni admin dan pelanggan
+2. Jika ingin login sebagai admin, nick : admin1 password: admin123
+3. Jika ingin login sebagai user saya sudah menyediakan 2 akun, karena disini saya belum membuat program register jadi bisa login dengan akun yang sudah ada saja
+4. Acc pelanggan, nick : Budi / Andi password : budi123 / andi123
+5. Jalankan program
+6. Di Class buku ada tipe default dan ada protected
