@@ -4,7 +4,6 @@ public class Admin extends User {
     private String username;
     private String email;
 
-
     public Admin(String idAdmin, String namaAdmin, String username, String password, String email, String noTelp) {
         super(idAdmin, namaAdmin, noTelp, password);
         this.username = username;
@@ -46,6 +45,4 @@ public class Admin extends User {
     public String getRole() {
         return "Admin";
     }
-
-    
 }
